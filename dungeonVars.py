@@ -1,0 +1,15 @@
+# global variables
+
+branch = ['branch',1,1]
+knife = ['knife',4,10]
+sword = ['sword',10,5]
+axe = ['axe',8,4]
+plainClothes = ['plain clothes',1]
+lthrArmor = ['leather armor',5]
+chainMail = ['chain mail',10]
+goblin = ['goblin',5,5]
+chiefGoblin = ['chief goblin', 25, 25]
+troll = ['troll',10,10]
+chiefTroll = ['chief troll',15,50]
+spikePit = ['spike pit',10]
+cageTrap = ['cage trap',100]
